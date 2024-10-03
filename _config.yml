@@ -11,7 +11,14 @@ locale                   : "en-US"
 title                    : "Xiangyu Cui's Profile"
 title_separator          : "-"
 name                     : &name "Xiangyu Cui"
-description              : &description "personal description"
+description: &description "🌟 **Xiangyu Cui**  
+🚀 Aspiring Data Scientist with a strong background in machine learning and data analysis, currently pursuing a BEng in Data Science and Big Data Technology at XJTLU. 🎓  
+💡 Key projects include:  
+- **DualCore Portfolio Strategy**: Developed a novel multi-agent strategy for portfolio management using DDPG and SAC algorithms.  
+- **Time Series Forecasting Model**: Integrated CatBoost, LightGBM, and Transformer models to enhance predictive accuracy in financial markets.  
+- **Kaggle Competitions**: Achieved top placements in PII Data Detection and Trading at the Close challenges through innovative machine learning solutions.  
+🤝 Passionate about collaboration and technology, with a proven track record of successful internships and extracurricular involvement. 🎉"
+
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +33,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth China Jiangsu Suzhou"
-  employer         : "Xi'an Jiaotong Liverpool University"
+  employer         : "XJTLU"
   uri              : # URL
   email            : "2794555236@qq.com" 
 
