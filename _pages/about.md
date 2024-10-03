@@ -12,11 +12,9 @@ redirect_from:
 👋 Hi, I’m **Xiangyu Cui**  
 I am passionate about coding and currently exploring **Multiagent Models/Algorithms**. I am eager to collaborate on innovative programs and research projects.
 
-![Coding Animation](https://media.giphy.com/media/d2jjuG7z4rf0p8E3Jk/giphy.gif)
-
 ## 🌐 Connect with Me:
 - [GitHub Profile](https://github.com/Xiangyu2141480)
-- [Kaggle Profile](https://www.kaggle.com/xiangyucui25)
+- [Kaggle Profile](https://www.kaggle.com/xiangyucui25) <!-- Replace 'yourusername' with your actual Kaggle username -->
 - WeChat: cui2794555236
 - Email: 2794555236@qq.com; Xiangyu.Cui21@student.xjtlu.edu.cn
 
@@ -35,8 +33,6 @@ I am passionate about coding and currently exploring **Multiagent Models/Algorit
 - Advanced Python Techniques
 - Machine Learning and Artificial Intelligence
 
-![Learning Animation](https://media.giphy.com/media/26FHo4pNz5P9O3pGg/giphy.gif)
-
 ## 🤝 Collaboration Interests:
 - Open-source projects
 - Coding challenges
@@ -49,5 +45,3 @@ I am passionate about coding and currently exploring **Multiagent Models/Algorit
 ---
 
 <img src="https://github.com/Xiangyu2141480/Xiangyu2141480/assets/137604408/480309ae-43ea-4dd7-891d-7e59330c7892" alt="Xiangyu Cui" width="300"/>
-
-![Collaboration Animation](https://media.giphy.com/media/l1J9uW3RZ0xFGB6nG/giphy.gif)
