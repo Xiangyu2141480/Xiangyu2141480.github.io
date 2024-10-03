@@ -44,4 +44,4 @@ I am passionate about coding and currently exploring **Multiagent Models/Algorit
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiangyu2141480&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiangyu2141480&layout=compact&theme=radical)
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Gif" width="300"/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Fun Gif" width="300"/>
