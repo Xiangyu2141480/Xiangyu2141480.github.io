@@ -11,6 +11,7 @@ redirect_from:
 
 👋 Hi, I’m **Xiangyu Cui**  
 I am passionate about coding and currently exploring **Multiagent Models/Algorithms**. I am eager to collaborate on innovative programs and research projects.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=654AF7&width=435&lines=Stay+hungry%2C+stay+foolish.)](https://git.io/typing-svg)
 
 ## 🌐 Connect with Me:
