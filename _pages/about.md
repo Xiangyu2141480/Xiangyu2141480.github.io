@@ -14,7 +14,7 @@ I am passionate about coding and currently exploring **Multiagent Models/Algorit
 
 ## 🌐 Connect with Me:
 - [GitHub Profile](https://github.com/Xiangyu2141480)
-- [Kaggle Profile](https://www.kaggle.com/yourusername) <!-- Replace 'yourusername' with your actual Kaggle username -->
+- [Kaggle Profile](https://www.kaggle.com/xiangyucui25) <!-- Replace 'yourusername' with your actual Kaggle username -->
 - WeChat: cui2794555236
 - Email: 2794555236@qq.com; Xiangyu.Cui21@student.xjtlu.edu.cn
 
